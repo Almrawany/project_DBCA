@@ -1,0 +1,94 @@
+2018/11/10 05:06:04There is a problem in executeStmt method with the follwoing query 
+
+2018/11/10 05:06:04There is a problem in setData method with the follwoing query insert into projects ( ProjectID, projectName, projectType,Descritpion) values (?,?,?,?)
+
+2018/11/10 05:06:04There is a problem in post method, projects class 
+
+2018/11/10 16:59:01There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where type = 'Faculty'' at line 1
+
+2018/11/10 17:00:05There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where people.type = 'Faculty'' at line 1
+
+2018/11/10 17:28:48There is a problem in getData method with the follwoing query java.sql.SQLIntegrityConstraintViolationException: Column 'ProjectID' in field list is ambiguous
+
+2018/11/10 18:22:07There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+2018/11/10 18:22:07There is a problem in fetch method, projects class 
+
+2018/11/10 18:23:39There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+2018/11/10 18:23:39There is a problem in fetch method, projects class 
+
+2018/11/10 18:24:31There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+2018/11/10 18:24:31There is a problem in fetch method, projects class 
+
+2018/11/10 18:25:37There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+2018/11/10 18:25:37There is a problem in fetch method, projects class 
+
+2018/11/10 18:27:43There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+2018/11/10 18:27:43There is a problem in fetch method, projects class 
+
+2018/11/10 18:28:56There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+2018/11/10 18:28:56There is a problem in fetch method, projects class 
+
+2018/11/10 18:29:25There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+2018/11/10 18:29:25There is a problem in fetch method, projects class 
+
+2018/11/10 18:30:59There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+2018/11/10 18:30:59There is a problem in fetch method, projects class 
+
+2018/11/10 18:33:19There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+2018/11/10 18:33:19There is a problem in fetch method, projects class 
+
+2018/11/10 18:43:04There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+2018/11/10 18:43:04There is a problem in fetch method, projects class 
+
+2018/11/10 18:44:05There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+2018/11/10 18:44:05There is a problem in fetch method, projects class 
+
+2018/11/10 18:47:08There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+2018/11/10 18:47:08There is a problem in fetch method, projects class 
+
+2018/11/10 18:50:04There is a problem in getData method with the follwoing query java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+2018/11/10 18:50:04There is a problem in fetch method, projects class 
+
+2018/11/10 19:13:51There is a problem in executeStmt method with the follwoing query 
+
+2018/11/10 19:13:51There is a problem in setData method with the follwoing query insert into people_projects( ProjectID, PeopleID, comment ,status) values (?,?,?,?)
+
+2018/11/10 19:13:51There is a problem in post method, People_projects class 
+
+2018/11/10 20:33:47There is a problem in executeStmt method with the follwoing query 
+
+2018/11/10 20:33:47There is a problem in setData method with the follwoing query update people set Type = ?,username=?,password =?,name = ? ,tagline =? ,title = ? ,interestArea = ? , office = ? ,  website = ? ,  phone = ? , email = ?  where id = ? 
+
+2018/11/10 20:33:47There is a problem in put method, people class 
+
+2018/11/10 20:46:52There is a problem in executeStmt method with the follwoing query 
+
+2018/11/10 20:46:52There is a problem in setData method with the follwoing query update people set Type = ?,username=?,password =?,name = ? ,tagline =? ,title = ? ,interestArea = ? , office = ? ,  website = ? ,  phone = ? , email = ?  where id = ? 
+
+2018/11/10 20:46:52There is a problem in put method, people class 
+
+2018/11/10 20:50:06There is a problem in executeStmt method with the follwoing query 
+
+2018/11/10 20:50:06There is a problem in setData method with the follwoing query update people set Type = ?,username=?,password =?,name = ? ,tagline =? ,title = ? ,interestArea = ? , office = ? ,  website = ? ,  phone = ? , email = ?  where id = ? 
+
+2018/11/10 20:50:06There is a problem in put method, people class 
+
+2018/11/10 21:25:27There is a problem in executeStmt method with the follwoing query 
+
+2018/11/10 21:25:27There is a problem in setData method with the follwoing query insert into people_projects( ProjectID, PeopleID, comment ,status) values (?,?,?,?)
+
+2018/11/10 21:25:27There is a problem in post method, People_projects class 
+
